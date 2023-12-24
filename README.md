@@ -1,4 +1,4 @@
-# Amazon Frontend Clone (Inspired by [YouTube Tutorial]([link-to-youtube-video](https://youtu.be/nGhKIC_7Mkk?feature=shared)))
+# Amazon Frontend Clone (Inspired by Shradha Khapra YT)
 
 Amazon Frontend Clone
 
