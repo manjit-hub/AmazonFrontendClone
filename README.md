@@ -1,6 +1,6 @@
 # Amazon Frontend Clone (Inspired by [YouTube Tutorial]([link-to-youtube-video](https://youtu.be/nGhKIC_7Mkk?feature=shared)))
 
-![Amazon Frontend Clone].
+Amazon Frontend Clone
 
 A simple HTML and CSS clone of the Amazon frontend, created for learning and practice purposes, inspired by a YouTube tutorial.
 
