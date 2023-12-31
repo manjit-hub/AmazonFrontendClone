@@ -1,5 +1,7 @@
 # Amazon Frontend Clone (Inspired by Shradha Khapra YT)
 
+Visit -: https://manjit-hub.github.io/AmazonFrontendClone/
+
 Amazon Frontend Clone
 
 A simple HTML and CSS clone of the Amazon frontend, created for learning and practice purposes, inspired by a YouTube tutorial.
